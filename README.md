@@ -87,7 +87,7 @@ npm run preview
 ---
 
 ## 📁 Project Structure
-
+```
 news_app/
 │
 ├── public/
@@ -100,9 +100,12 @@ news_app/
 │
 ├── package.json
 └── vite.config.js
-
+```
 ---
 
+
+### SCREENSHOT
+![NEWS VIEW](src/assets/newsApp.png)
 ## 🎯 Key Learning Outcomes
 
 * Working with REST APIs
