@@ -1,16 +1,141 @@
-# React + Vite
+# 📰 News App — React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive news application built with React that fetches real-time news from an external API. The app displays categorized headlines with a clean UI and smooth user experience across all devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+👉 Add your deployed link here (Vercel / Netlify)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://your-live-demo-link.com
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* 📰 Real-time news from API
+* 🔍 Category-based filtering
+* ⚡ Fast data fetching with Axios & Fetch API
+* 🎯 Global state management using Context API
+* 📱 Fully responsive design
+* 🎨 Modern UI with Tailwind CSS + DaisyUI
+* 🔄 Dynamic content loading
+* ♻️ Reusable React components
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React (Vite)
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+### Styling
+
+* Tailwind CSS
+* DaisyUI
+
+### State Management
+
+* Context API
+
+### Data Fetching
+
+* Fetch API
+* Axios
+
+### Tools
+
+* Vite
+* ESLint
+* Git & GitHub
+
+---
+
+## 📦 Installation & Setup
+
+Clone the repository and install dependencies:
+
+git clone https://github.com/your-username/news_app.git
+cd news_app
+npm install
+
+---
+
+## ▶️ Run Development Server
+
+npm run dev
+
+Open in browser:
+
+http://localhost:5173
+
+---
+
+## 🏗️ Build for Production
+
+npm run build
+
+Preview production build:
+
+npm run preview
+
+---
+
+## 📁 Project Structure
+
+news_app/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── context/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+└── vite.config.js
+
+---
+
+## 🎯 Key Learning Outcomes
+
+* Working with REST APIs
+* Handling asynchronous requests
+* Managing global state with Context API
+* Building responsive layouts
+* Component-based architecture in React
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Kunal**
+
+📧 [kunal336552@gmail.com](mailto:kunal336552@gmail.com)
+🔗 GitHub: https://github.com/kunal336552
+🔗 LinkedIn: https://www.linkedin.com/in/kunal-shrivastav-3b86932a3
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, please ⭐ star the repository!
